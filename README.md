@@ -17,7 +17,6 @@
 
 ✨ Hands-on with "https://labs.play-with-k8s.com/"
 
-![](https://github.com/suhasgumma/100-Days-Of-Kubernetes/blob/master/Kubernetes%20Cluster%20Mind%20Map.jpeg)
 
 ### Commands
 
