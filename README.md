@@ -20,6 +20,11 @@
 
 ### Commands
 
+
+
+
+
+
 #### Initialize Cluster Master Node In Kubernetes Playground
 ```
 kubeadm init --apiserver-advertise-address $(hostname -i) --pod-network-cidr 10.5.0.0/16 
