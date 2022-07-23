@@ -68,6 +68,21 @@ kubectl config set-context --current --namespace default
 kubectl delete ns newNamespace
 ```
 
+## Day 4 -- Services, Service Discovery & Volumes
+
+✨ Introduction to Kubernetes Services
+
+✨ EndPoint Objects
+
+✨ Accessing Services from inside the Cluster
+
+✨ Accessing Services from outside the Cluster
+
+✨ Service Registration & Service Discovery.
+
+✨ Kubernetes Volumes
+
+✨EmptyDir and hostpath
 
 
 
