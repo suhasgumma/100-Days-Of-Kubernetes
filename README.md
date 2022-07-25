@@ -82,7 +82,22 @@ kubectl delete ns newNamespace
 
 ✨ Kubernetes Volumes
 
-✨EmptyDir and hostpath
+✨ EmptyDir and hostpath
+
+
+## Day 5 -- Volumes, ConfigMaps and Secrets
+
+☸ Persistent Volumes (PVs).
+
+☸ Persistent Volume Claims (PVCs).
+
+☸ Storage Classes.
+
+☸ ConfigMaps and need for ConfigMaps
+
+☸ Secrets
+
+☸ Injecting configMaps and Secrets into Containers during runtime.
 
 
 
