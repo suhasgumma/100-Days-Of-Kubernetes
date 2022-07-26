@@ -87,17 +87,52 @@ kubectl delete ns newNamespace
 
 ## Day 5 -- Volumes, ConfigMaps and Secrets
 
-☸ Persistent Volumes (PVs).
+✨ Persistent Volumes (PVs).
 
-☸ Persistent Volume Claims (PVCs).
+✨ Persistent Volume Claims (PVCs).
 
-☸ Storage Classes.
+✨ Storage Classes.
 
-☸ ConfigMaps and need for ConfigMaps
+✨ ConfigMaps and need for ConfigMaps
 
-☸ Secrets
+✨ Secrets
 
-☸ Injecting configMaps and Secrets into Containers during runtime.
+✨ Injecting configMaps and Secrets into Containers during runtime.
+
+
+## Day 6 -- StatefulSets to Threat Modelling Kubernetes
+
+✨ StatefulSets in Kubernetes
+
+✨ The Kubernetes API Deep Dive
+
+✨ API Security - AuthN, AuthZ and Admission Control
+
+✨ RBAC
+
+✨ Threat Modelling Kubernetes
+
+
+```
+StatefulSets handle Pods much more delicately than Deployments.
+```
+
+```
+API Server runs as a set of Pods on kube-system Namespace on Control Plane Nodes because it is a Control Plane Service.
+```
+
+```
+RESTful API --> Modern Web API dealing with CRUD-style requests with HTTP.
+```
+
+```
+Role Based Access Control Model (RBAC):
+
+Which USER can perform which ACTIONS against which RESOURCES.
+
+```
+
+
 
 
 
