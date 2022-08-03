@@ -132,6 +132,11 @@ Which USER can perform which ACTIONS against which RESOURCES.
 
 ```
 
+## Day 7-14
+
+Setting up a Personal Project in Collaboration with @jaideep99 and @navaneethnanda
+
+
 
 
 
