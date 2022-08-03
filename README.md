@@ -136,6 +136,8 @@ Which USER can perform which ACTIONS against which RESOURCES.
 
 Setting up a Personal Project in Collaboration with @jaideep99 and @navaneethnanda
 
+Link to the Project - https://github.com/suhasgumma/CricRadio-Containerizing-using-Docker
+
 
 
 
