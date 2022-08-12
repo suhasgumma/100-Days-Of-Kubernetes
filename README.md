@@ -138,6 +138,14 @@ Setting up a Personal Project in Collaboration with @jaideep99 and @navaneethnan
 
 Link to the Project - https://github.com/suhasgumma/CricRadio-Containerizing-using-Docker
 
+## Day 13-17
+
+Kubernetizing the CricRadio Project
+
+Link to Kubernetes Manifest Files and Architecture - https://github.com/suhasgumma/CricRadio-Kubernetes
+
+
+
 
 
 
