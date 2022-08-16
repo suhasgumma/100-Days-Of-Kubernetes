@@ -144,6 +144,17 @@ Kubernetizing the CricRadio Project
 
 Link to Kubernetes Manifest Files and Architecture - https://github.com/suhasgumma/CricRadio-Kubernetes
 
+## Day 18-19
+
+The Why of Kubernetes Design
+
+
+## Day 20
+
+Kubernetes 101 Workshop by Saiyam Pathak
+
+Youtube Link: https://www.youtube.com/watch?v=PN3VqbZqmD8
+
 
 
 
