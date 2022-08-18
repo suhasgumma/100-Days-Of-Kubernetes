@@ -155,6 +155,12 @@ Kubernetes 101 Workshop by Saiyam Pathak
 
 Youtube Link: https://www.youtube.com/watch?v=PN3VqbZqmD8
 
+## Day 21
+
+Containers & Kubernetes Security Workshop by Rewanth Tammana
+
+Youtube Link: https://www.youtube.com/watch?v=ka0C09CAfho&t=8089s
+
 
 
 
