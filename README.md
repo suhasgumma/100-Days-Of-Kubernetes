@@ -198,10 +198,14 @@ chartName/
 
 ✨ Policy Check (Check the policies selected beforehand from available polocies. Currently there are 60 polocies)
 
+### Datree policies
+<img src="Datree Policies.png" height = 300 width = 500>
 
-<img src="cricradio-architecture.jpeg">
-<img src="cricradio-architecture.jpeg">
-<img src="cricradio-architecture.jpeg">
+### Kubernetes Schema Validation Fail
+<img src="Kubernetes Schema Validation Fail.png" height = 300 width = 500>
+
+### Policy Check Fail
+<img src="Policy Check Fail.png" height = 300 width = 500>
 
 
 
