@@ -161,6 +161,32 @@ Containers & Kubernetes Security Workshop by Rewanth Tammana
 
 Youtube Link: https://www.youtube.com/watch?v=ka0C09CAfho&t=8089s
 
+## Day 22
+
+"GitOps with ArgoCD" Workshop by CodeFresh's Dan.
+
+Youtube Link: https://www.youtube.com/watch?v=5rwIIusbUWM
+
+## Day 23
+### Fundamentals Of Helm
+
+#### What is Helm?
+
+Package Manager for Kubernetes. Primary Feature is packaging YAML files & distributing them in Public & Private repositories. Second feature is Templating engine.
+
+#### What are Helm Charts?
+
+Bundle of YAML files.
+
+#### Helm Chart Structure
+```
+chartName/
+  chart.yaml    //chart's metadata
+  values.yaml   // Substitutes in template files
+  charts/       // Chart Dependencies
+  templates/
+```
+
 
 
 
