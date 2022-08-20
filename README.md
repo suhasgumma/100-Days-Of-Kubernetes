@@ -167,7 +167,7 @@ Youtube Link: https://www.youtube.com/watch?v=ka0C09CAfho&t=8089s
 
 Youtube Link: https://www.youtube.com/watch?v=5rwIIusbUWM
 
-## Day 23
+## Day 23 -- Helm & Datree
 ### Fundamentals Of Helm
 
 #### What is Helm?
@@ -186,6 +186,23 @@ chartName/
   charts/       // Chart Dependencies
   templates/
 ```
+
+### Introduction to Datree
+
+#### Problem Datree is Solving --> Preventing Kubernetes Misconfigurations from reaching Production. 
+
+#### Does that through a series of checks
+✨ YAML Validation.
+
+✨ Kubernetes Schema Validation 
+
+✨ Policy Check (Check the policies selected beforehand from available polocies. Currently there are 60 polocies)
+
+
+<img src="cricradio-architecture.jpeg">
+<img src="cricradio-architecture.jpeg">
+<img src="cricradio-architecture.jpeg">
+
 
 
 
