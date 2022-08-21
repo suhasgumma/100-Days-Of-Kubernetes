@@ -208,6 +208,17 @@ chartName/
 <img src="Policy Check Fail.png" height = 300 width = 500>
 
 
+## Day 24 -- Ingress
+
+### Ingress
+
+Ingress Exposes multiple Services through a single cloud load-balancer.
+
+<img src="Policy Check Fail.png" height = 300 width = 500>
+
+
+
+
 
 
 
