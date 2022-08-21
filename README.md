@@ -199,13 +199,13 @@ chartName/
 ✨ Policy Check (Check the policies selected beforehand from available polocies. Currently there are 60 polocies)
 
 ### Datree policies
-<img src="Datree Policies.png" height = 300 width = 500>
+<img src="Images For Readme/Datree Policies.png" height = 300 width = 500>
 
 ### Kubernetes Schema Validation Fail
-<img src="Kubernetes Schema Validation Fail.png" height = 300 width = 500>
+<img src="Images For Readme/Kubernetes Schema Validation Fail.png" height = 300 width = 500>
 
 ### Policy Check Fail
-<img src="Policy Check Fail.png" height = 300 width = 500>
+<img src="Images For Readme/Policy Check Fail.png" height = 300 width = 500>
 
 
 ## Day 24 -- Ingress
@@ -214,9 +214,13 @@ chartName/
 
 Ingress Exposes multiple Services through a single cloud load-balancer.
 
-<img src="Policy Check Fail.png" height = 300 width = 500>
+### Ingress vs Load-balancer.png
 
+<img src="Images For Readme/Ingress vs Load-balancer.png" height = 300 width = 500>
 
+### Ingress Fanout
+
+<img src="Images For Readme/Ingress Fanout.png" height = 300 width = 500>
 
 
 
