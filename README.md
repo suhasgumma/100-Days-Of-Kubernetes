@@ -268,3 +268,23 @@ https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/
 
 #### Scale a StatefulSet Demo
 * https://kubernetes.io/docs/tasks/run-application/scale-stateful-set/
+
+
+## Day 26 -- Role Based Access Control (RBAC)
+✨ Service Accounts
+  * Processes in Containers and other third party applications could also contact the api-server.
+    They are authenticated as a particular Service Account.
+  
+✨ Role
+  * Sets Permission within a Namespace
+  
+✨ Cluster Role
+  * Sets Permission across the cluster
+
+✨ RoleBinding & ClusterRoleBinding
+  * rolebindings grant the permissions defined in Role/ClusterRole to a user or a set of users. 
+  
+Documentation is informative & clear. Link to the documentation:
+https://kubernetes.io/docs/reference/access-authn-authz/rbac/
+
+
