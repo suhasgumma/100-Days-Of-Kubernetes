@@ -298,7 +298,7 @@ Attacker Getting Access from the Kubernetes Platform to the underlying Operating
 * Kubernetes Security Best Practices Video of Nana:
   https://www.youtube.com/watch?v=oBf5lrmquYI
   
-* Kubernetes Hardening Guide: Cybersecurity Technical Report by NSA & CISA
+* Kubernetes Hardening Guide: Cybersecurity Technical Report by NSA & CISA: https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/0/CTR_Kubernetes_Hardening_Guidance_1.1_20220315.PDF
 
 * Hacking and Hardening Kubernetes Clusters- CNCF video:
   https://www.youtube.com/watch?v=vTgQLzeBfRU&t=730s
