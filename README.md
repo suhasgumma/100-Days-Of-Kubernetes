@@ -287,4 +287,49 @@ https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/
 Documentation is informative & clear. Link to the documentation:
 https://kubernetes.io/docs/reference/access-authn-authz/rbac/
 
+## Day 27 -- Kubernetes Security Best Practices and Introduction to kubescape
+### Kubernetes Security Best Practices
+#### Number One Issue: 
+Attacker Getting Access from the Kubernetes Platform to the underlying Operating System.
+
+#### Security Mechanisms should be redundant. There should be multiple mechanisms at multiple levels.
+
+### Resources
+* Kubernetes Security Best Practices Video of Nana:
+  https://www.youtube.com/watch?v=oBf5lrmquYI
+  
+* Kubernetes Hardening Guide: Cybersecurity Technical Report by NSA & CISA
+
+* Hacking and Hardening Kubernetes Clusters- CNCF video:
+  https://www.youtube.com/watch?v=vTgQLzeBfRU&t=730s
+ 
+* Hacking into Kubernetes Security for Beginners- CNCF video:
+  https://www.youtube.com/watch?v=mLsCm9GVIQg&t=244s
+
+* Kubernetes Security Best Practices: Definitive Guide by Jonathan Kaftzan of Armo: 
+  https://www.armosec.io/blog/kubernetes-security-best-practices/
+  
+### Best Practices from Nana's Video:
+
+#### Best Practice 1: Scan Images & Scan them regularly.
+
+#### Best Practice 2: Run as non-root
+
+#### Best Practice 3: Users & Permissions with RBAC.
+
+#### Best Practice 4: Define Communication rules between Pods by using Network polocies.
+
+#### Best Practice 5: Encrypt cluster Internal Communication.
+
+#### Best Practice 6: Secure Secret objects by encrypting them. 
+
+#### Best Practice 7: Secure etcd store
+
+#### Best Practice 8: Automated Backup & Restore.
+
+#### Best Practice 9: Configure Security Polocies
+
+#### Best Practice 10: Have a proper strategy & mechanism for disaster recovery. 
+
+
 
