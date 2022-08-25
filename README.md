@@ -331,5 +331,23 @@ https://www.armosec.io/blog/kubernetes-security-best-practices/
 
 #### Best Practice 10: Have a proper strategy & mechanism for disaster recovery. 
 
+## Day 27 -- Kubernetes Observability
+### Three pillars of K8s Observability: Logs, Metrics & Traces: 
+https://logz.io/blog/implementing-kubernetes-observability/
 
+### Fluentd: Log Data Collecter
+Watch Fluentd video by Nana:
+https://www.youtube.com/watch?v=5ofsNyHZwWE
 
+### Prometheus- Monitoring Tool
+#### Constantly monitor all the services
+
+### Resources for Learning Prometheus:
+* How Prometheus Monitoring works & Architecture by Nana:
+https://www.youtube.com/watch?v=h4Sl21AKiDg&list=PLe8ZS56qsN_mq2Af6tEHAAm7fsY3sHOfL
+
+* Setup Prometheus Monitoring on Kubernetes using Helm and Prometheus Operator by Nana:
+https://www.youtube.com/watch?v=QoDqxm7ybLc&list=PLe8ZS56qsN_mq2Af6tEHAAm7fsY3sHOfL&index=2
+
+* Prometheus Monitoring - Steps to monitor third-party apps using Prometheus Exporter
+https://www.youtube.com/watch?v=mLPg49b33sA
