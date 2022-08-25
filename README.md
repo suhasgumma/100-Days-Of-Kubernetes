@@ -331,7 +331,7 @@ https://www.armosec.io/blog/kubernetes-security-best-practices/
 
 #### Best Practice 10: Have a proper strategy & mechanism for disaster recovery. 
 
-## Day 27 -- Kubernetes Observability
+## Day 28 -- Kubernetes Observability
 ### Three pillars of K8s Observability: Logs, Metrics & Traces: 
 https://logz.io/blog/implementing-kubernetes-observability/
 
