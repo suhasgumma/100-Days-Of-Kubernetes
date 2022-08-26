@@ -351,3 +351,21 @@ https://www.youtube.com/watch?v=QoDqxm7ybLc&list=PLe8ZS56qsN_mq2Af6tEHAAm7fsY3sH
 
 * Prometheus Monitoring - Steps to monitor third-party apps using Prometheus Exporter
 https://www.youtube.com/watch?v=mLPg49b33sA
+
+## Day 29 -- Kubernetes Hardening Guide by NSA & CISA
+### Pod Security: Harden Pods to make exploitation more difficult & Limit the impact of succesful compromise
+#### Non-root containers
+#### Image Scanning
+#### Immutable Container file systems
+
+### Network Saperation & Hardening
+
+#### Focus on communication between Containers, Pods, Services & External Services
+#### Use TLS for external Services
+
+#### Namespaces assign label to a scope that could be used to specify rules via RBAC & networking policies.
+
+### Network Policies Checklist
+* Use CNI plugin that supports Network Policy API
+* Create Policies that selects Pods using podSelector and/or namespaceSelector
+* Use default policy to deny all ingress & engress traffic
