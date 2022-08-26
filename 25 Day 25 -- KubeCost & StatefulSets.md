@@ -1,0 +1,21 @@
+## Day 25 -- KubeCost & StatefulSets
+
+### KubeCost
+Monitor & Reduce Kubernetes Spend
+#### Refer to Kubecost video by Kunal:
+https://www.youtube.com/watch?v=GYgFWJmnpHk
+
+### StatefulSets
+Workload API object designed for stateful applications
+
+#### Refer to StatefulSets Video of Nana:
+https://www.youtube.com/watch?v=pPQKAR1pA9U
+
+#### Kubernetes Docs StatefulSets
+https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/
+
+#### Run a Replicated Stateful Application Demo
+* https://kubernetes.io/docs/tasks/run-application/run-replicated-stateful-application/
+
+#### Scale a StatefulSet Demo
+* https://kubernetes.io/docs/tasks/run-application/scale-stateful-set/
