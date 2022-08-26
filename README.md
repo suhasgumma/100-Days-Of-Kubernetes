@@ -352,7 +352,7 @@ https://www.youtube.com/watch?v=QoDqxm7ybLc&list=PLe8ZS56qsN_mq2Af6tEHAAm7fsY3sH
 * Prometheus Monitoring - Steps to monitor third-party apps using Prometheus Exporter
 https://www.youtube.com/watch?v=mLPg49b33sA
 
-## Day 29 -- Kubernetes Hardening Guide by NSA & CISA
+## Day 29 -- Kubernetes Hardening Guide by NSA & CISA And Golang
 ### Pod Security: Harden Pods to make exploitation more difficult & Limit the impact of succesful compromise
 #### Non-root containers
 #### Image Scanning
