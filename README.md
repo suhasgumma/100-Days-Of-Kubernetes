@@ -377,3 +377,20 @@ https://www.youtube.com/watch?v=mLPg49b33sA
 * Use RBAC policies to restrict access
 * Secure the etcd datastore with authentication and RBAC policies
 * Protect kubeconfig files from unauthorized modifications
+
+### Logging 
+#### Logging should be performed at all levels of the environment, including on the host, application, container, container engine, image registry, api-server, and the cloud, as applicable.
+
+### Within the Kubernetes environment, some events that administrators should monitor/log include the following:
+* API request history
+* Performance metrics
+* Deployments
+* Resource consumption
+* Operating system calls
+* Protocols, permission changes
+* Network traffic
+* Pod scaling
+* Volume mount actions
+* Image and container modification
+* Privilege changes
+* Scheduled job (cronjob) creations and modifications
