@@ -369,3 +369,11 @@ https://www.youtube.com/watch?v=mLPg49b33sA
 * Use CNI plugin that supports Network Policy API
 * Create Policies that selects Pods using podSelector and/or namespaceSelector
 * Use default policy to deny all ingress & engress traffic
+
+### Control Plane Hardening
+* Set up TLS encryption
+* Set up strong authentication methods
+* Disable access to internet and unnecessary, or untrusted networks
+* Use RBAC policies to restrict access
+* Secure the etcd datastore with authentication and RBAC policies
+* Protect kubeconfig files from unauthorized modifications
