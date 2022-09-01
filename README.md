@@ -394,3 +394,26 @@ https://www.youtube.com/watch?v=mLPg49b33sA
 * Image and container modification
 * Privilege changes
 * Scheduled job (cronjob) creations and modifications
+
+
+## Day 30 - Kubernetes Networking
+✨ Role of kubelet in networking
+
+✨ Isolated, Flat & Island networks
+
+✨ Kube-controller-manager config
+
+✨ CNI specification
+
+✨ CNI plug-ins 
+
+✨ Flat & overlay networks
+
+## Day 31 - Kubernetes Networking
+✨ Cilium - CNI Plugin
+
+✨ NetworkPolicy
+
+✨ KubeDNS
+
+✨ IPv4/IPv6 Dual Stack in K8s
