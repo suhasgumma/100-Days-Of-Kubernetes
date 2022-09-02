@@ -417,3 +417,31 @@ https://www.youtube.com/watch?v=mLPg49b33sA
 ✨ KubeDNS
 
 ✨ IPv4/IPv6 Dual Stack in K8s
+
+## Day 32 - Revisit AWS basics
+✨ VPC
+* Isolated Virtual Network defined by administrators
+* VPC could have multiple CIDR ranges
+* VPC cannot span across multiple AWS Regions
+
+✨ Subnet
+* Sub network in VPC network
+* Takes a chunk of CIDR range of VPC
+* Can Only span in Single AZ. Deployed to Single AZ
+* Subnet is public if the routing table has route to an internet gateway
+
+✨ Security Groups
+* Similar to Kubernetes NetworkPolicies
+* Inbound & Outbound Rules
+
+✨ Network Access Control Lists
+* Filter rules must be defined explicitly in both directions
+* Confined to a single Subnet.
+
+✨ Internet Gateway
+* AWS managed service in VPC network that allows connectivity to the Internet.
+
+
+
+
+
