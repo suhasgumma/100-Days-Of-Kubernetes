@@ -1,0 +1,50 @@
+# Complete Kubernetes Checklist
+
+This Checklist is built with the help of "Cloud With RaJ's" Kubernetes Roadmap Video. 
+Link to the YouTube Video:
+https://www.youtube.com/watch?v=zGGsQ4H1e6E&t=3s
+
+It takes a lot of effort and time to build these kind of comprehensive lists. So, if this checklist is useful for you, Go checkout "Cloud With Raj's" Youtube Channel.
+Link to his Channel: https://www.youtube.com/c/AgentofChange-RajdeepSaha
+
+## Kubernetes Fundamentals
+
+- [ ] What is container ?
+- [ ] What is Container Orchestrator ?
+### Docker
+- [ ] DockerFile
+- [ ] Multi-stage Build
+- [ ] Docker Container Runtime
+
+### Kubernetes
+- [ ] What is Kubernetes ?
+- [ ] Pods
+- [ ] Deployments
+- [ ] ReplicaSets
+- [ ] Services
+- [ ] DaemonSet
+- [ ] PodSpec File
+- [ ] Namespaces
+- [ ] Popular Kubectl Commands
+
+
+## Advanced Kubernetes Fundamentals
+- [ ] Ingress
+- [ ] Service vs Ingress
+- [ ] StatefulSets
+
+### Scaling
+- [ ] Metrics Server 
+- [ ] HPA
+- [ ] VPA
+- [ ] OverProvisioner
+- [ ] Custom Metrics (KEDA)
+
+### Availability
+- [ ] Taints & Tolerations
+- [ ] Liveliness, Readiness & Startup Probes
+
+### Cost Optimization
+- [ ] KubeCost
+
+
