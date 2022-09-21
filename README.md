@@ -442,6 +442,14 @@ https://www.youtube.com/watch?v=mLPg49b33sA
 * AWS managed service in VPC network that allows connectivity to the Internet.
 
 
+## Day 33- 40 Contribute to Kubescape
+✨ [Pull Request Fixed: Kubescape fails to authenticate remote private Github repo](https://github.com/kubescape/kubescape/pull/721)
+
+✨ [Pull Request Fixed: Misconfiguration in "close-typos-issues.yaml" GITHUB Actions file](https://github.com/kubescape/kubescape/pull/755)
+
+✨ [Pull Request Scan Kustomize Directory ](https://github.com/kubescape/kubescape/pull/795)
+
+✨ [Pull Request Build on pre-configured killercoda's ubuntu playground](https://github.com/kubescape/kubescape/pull/797)
 
 
 
