@@ -452,4 +452,10 @@ https://www.youtube.com/watch?v=mLPg49b33sA
 ✨ [Pull Request Build on pre-configured killercoda's ubuntu playground](https://github.com/kubescape/kubescape/pull/797)
 
 
+## Day 41 Administration with kubeadm
+✨ Transport Layer Security (TLS)
+
+✨ PKI Certificates & requirements in K8s.
+
+✨ Certificate Management with kubeadm
 
