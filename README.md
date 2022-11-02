@@ -459,3 +459,18 @@ https://www.youtube.com/watch?v=mLPg49b33sA
 
 ✨ Certificate Management with kubeadm
 
+
+## Day 42 
+✨ Limits & Requests in Kubernetes
+✨ Configure Default memory requests & limits for namespaces.
+✨ Configure Default CPU requests & limits for namespaces
+
+## Day 43-55 Terraform 
+
+## Day 56 Kubernetes Security
+✨ 4C Model 
+✨ Cluster Hardening
+  ✨ CIS Benchmarks
+  ✨ OSS tools to scan K8s clusters against CIS Benchmarks (kube-bench & kubescape)
+  ✨ Kubernetes Security Principles
+  ✨ Basic Authentication mechanisms in Kubernetes
