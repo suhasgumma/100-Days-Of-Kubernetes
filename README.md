@@ -479,6 +479,6 @@ https://www.youtube.com/watch?v=mLPg49b33sA
   
   ✨ OSS tools to scan K8s clusters against CIS Benchmarks (kube-bench & kubescape)
   
-  ✨ Kubernetes Security Principles
+  ✨ Kubernetes Security Primitives
   
   ✨ Basic Authentication mechanisms in Kubernetes
