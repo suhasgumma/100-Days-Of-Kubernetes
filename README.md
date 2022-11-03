@@ -482,3 +482,13 @@ https://www.youtube.com/watch?v=mLPg49b33sA
   ✨ Kubernetes Security Primitives
   
   ✨ Basic Authentication mechanisms in Kubernetes
+  
+## Day 56 Kubernetes Security: Cluster Hardening
+
+✨ ServiceAccounts recap
+
+✨ Asymmetric Encryption overview
+
+✨ TLS in Kubernetes
+
+✨ KubeConfig
