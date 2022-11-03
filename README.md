@@ -483,7 +483,7 @@ https://www.youtube.com/watch?v=mLPg49b33sA
   
   ✨ Basic Authentication mechanisms in Kubernetes
   
-## Day 56 Kubernetes Security: Cluster Hardening
+## Day 57 Kubernetes Security: Cluster Hardening
 
 ✨ ServiceAccounts recap
 
