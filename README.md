@@ -492,3 +492,14 @@ https://www.youtube.com/watch?v=mLPg49b33sA
 ✨ TLS in Kubernetes
 
 ✨ KubeConfig
+
+## Day 58 Kubernetes Security: Cluster Hardening
+
+✨ API Groups
+
+✨ Authorization in Kubernetes
+
+✨ RBAC
+
+✨ Kubelet Security (Authentication & Authorization)
+
