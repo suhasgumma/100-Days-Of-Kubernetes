@@ -503,3 +503,14 @@ https://www.youtube.com/watch?v=mLPg49b33sA
 
 ✨ Kubelet Security (Authentication & Authorization)
 
+## Day 59
+✨ Kubernetes Core Concepts Recap
+
+### Kubernetes Configuration
+✨ CMD vs ENTRYPOINT in Docker
+
+✨ Environment Variables
+
+✨ ConfigMaps
+
+### Practice Writing manifests for Pods
