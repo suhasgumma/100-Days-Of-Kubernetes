@@ -514,3 +514,20 @@ https://www.youtube.com/watch?v=mLPg49b33sA
 ✨ ConfigMaps
 
 ### Practice Writing manifests for Pods
+
+## Day 60 : Kubernetes Configuration
+
+✨ Creating & Injecting ConfigMaps
+
+✨ Creating & Injecting Secrets
+
+✨ Encrypting Secret Data at REST
+
+✨ Security Context in K8s
+
+✨ Resource Requirements
+
+✨ Taints and Tolerations
+
+
+
